@@ -1,0 +1,11 @@
+.image {
+	position: relative;
+	
+}
+
+h1, h3 {
+	position: absolute;
+	color: white;
+	top: 200px;
+	left: 50px;
+}
